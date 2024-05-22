@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+<!-- Project: Campus Information Management System
+
+Developed a comprehensive student information website utilizing ReactJS for the frontend, facilitating intuitive user interfaces for lecturers, Heads of Departments (HODs), and the Principal.
+Implemented backend functionalities with Node.js, enabling secure login systems and efficient data management. Utilized SQL databases to store and retrieve student information securely, with an administrative panel for user management and profile updates. -->
 
 In the project directory, you can run:
 
